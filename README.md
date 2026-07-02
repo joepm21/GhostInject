@@ -1,7 +1,7 @@
 # 👻 GhostInject
 
 <p align="center">
-  <img src="assets/ghostinject-banner.png" alt="GhostInject Banner" width="850">
+  <img src="" alt="GhostInject Banner" width="850">
 </p>
 
 <p align="center">
